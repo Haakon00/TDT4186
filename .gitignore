@@ -1,0 +1,5 @@
+*.exe
+*.out
+Webserver/mtwwwd
+.vscode
+Flush/flush
